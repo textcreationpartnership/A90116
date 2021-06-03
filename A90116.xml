@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of receiving the communion in the company of such, whom we conceive not so good, holy, and rightly principled, as we wish they were.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90116</idno><idno type="EEBO-CITATION">99865665</idno>
+  <idno type="VID">165830</idno>
+  <idno type="EEBO-PROQUEST">2240911907</idno>
+  
+            <idno type="STC">Wing O141</idno>
+            <idno type="STC">Thomason E626_16</idno>
+            <idno type="STC">ESTC R206524</idno>
+            <idno type="PROQUEST">99865665</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865665e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90116)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165830)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 96:E626[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of receiving the communion in the company of such, whom we conceive not so good, holy, and rightly principled, as we wish they were.</title>
+               </titleStmt>
+               <extent>[2], 3 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Davis,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 6 misnumbered 3.</note>
+                  <note>Annotation on Thomason copy: "Aprill 3d".</note>
+                  <note>"This anonymous, forlorn little tract is a plea for toleration in the matter treated .." -- Madan.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Lord's Supper --  Early works to 1800.</term>
+               <term type="topical_term">Religious tolerance --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165830:1"/>
+            <p>OF RECEIVING THE COMMVNION IN THE COMPANY OF SVCH; whom we conceive not so good, holy, and rightly principled, as we wish they were.</p>
+            <q>
+               <bibl>
+                  <hi>JOH. 13.30.</hi>
+               </bibl>
+               <p>He then having received the sop, went immediately out: and it was night.</p>
+            </q>
+            <figure>
+               <figDesc>Oxford printer's device including the university's coat of arms</figDesc>
+               <p>ACADEMIA OXONIESIS</p>
+               <p>SAPIENCTIA ET <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </p>
+            </figure>
+            <p>
+               <hi>OXFORD,</hi> Printed for RICHARD DAVIS. 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165830:2"/>
+            <pb n="1" facs="tcp:165830:2"/>
+            <head>Of Receiving the Communion in the company of such, whom we conceive not so good, holy, and rightly principled, as wee wish they were.</head>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>
+                  <seg rend="decorInit">J</seg>ESUS CHRIST gave the Communi<g ref="char:EOLhyphen"/>on to <hi>Peter,</hi> who he knew, would deny him with cursing and swearing; and indeed so did [<hi>Matth.</hi> 26.34. —<hi>Thou shalt deny me thrice.</hi> vers. 70. —<hi>He denyed before them all. v.</hi> 72. <hi>He denyed with an oath. v.</hi> 74. <hi>he began to curse and to sweare, I know not the man</hi>] and to all the Disciples, who as <hi>Peter,</hi> did not yet believe the resurrection, nor a great while after neither, nor could they be brought to it, <hi>Mar.</hi> 16.11. [<hi>And they, when they had heard that he was alive, and had beene seene of her, beleeved not.</hi> and <hi>vers.</hi> 13. <hi>[And they two went and told it to the residue: neither beleeved they them.]</hi> Nay the words of eye-witnesses seemed to them, as idle tales, <hi>Luk.</hi> 24.11. where also <hi>vers.</hi> 13. and so forward, a story of two Disciples (and <hi>Cleopas</hi> one) who did not yet be<g ref="char:EOLhyphen"/>leeve that he was Hee that should redeem Israël, <hi>vers.</hi> 21. nor did they in any tolerable manner understand the chiefe Scriptures con<g ref="char:EOLhyphen"/>cerning Christ, much lesse all, till <hi>v.</hi> 45. Christ opened their un<g ref="char:EOLhyphen"/>derstandings, that they might understand the Scriptures. <hi>Thomas</hi> said, he would not beleeve but upon manifestations, that himselfe had proposed, <hi>Joh.</hi> 20.25. <hi>[Except I shall see in his hands the print of the nailes, and put my finger into the print of the nailes, and thrust my hand into his side, I will not beleeve.]</hi> Nay more then all this, the very morning before the Ascention we find the eleven in an expectation of Christs Being a Temporall King, <hi>Act.</hi> 1.6. This was no lesse then 40. daies after his resurrection, and yet were they in the same errour, that those two disciples were in, on the very day of his Resurrection, <hi>Luk.</hi> 24.21. So slow and dull were they to beleeve, though Jesus Christ himselfe had taught them for 3. years together before; and yet God bare with them still.</p>
+               <pb n="4" facs="tcp:165830:3"/>
+               <p>
+                  <hi>Prolepsis.</hi> Not that any hence should bee suffered to curse and sweare, or be contented with his dulnesse or slownesse, or be en<g ref="char:EOLhyphen"/>couraged to goe on in ignorance and unbeliefe; (there are other scriptures enough against these things, and otherwaies for preven<g ref="char:EOLhyphen"/>ting and reforming of these things commanded to us in these scrip<g ref="char:EOLhyphen"/>tures, and not Exclusion or Suspension from the Sacrament) But that, when men desire and endeavour to approve themselves to bee disciples, as the disciples here did; Their present ignorance, fail<g ref="char:EOLhyphen"/>ings and slendernesse can be no sufficient ground, either to any knowing and worthy believer to forbeare communicating with them, or to any Minister to suspend or exclude them from the Sacrament; no more, then it was to Jesus Christ to withhold the Ordinance from his ignorant and unbelieving disciples, who did de<g ref="char:EOLhyphen"/>sire and endeavour to be better, and were in a way to be so, and indeed were so very shortly after.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>The place, that to some men seemes to be most against <hi>Ju<g ref="char:EOLhyphen"/>das</hi> his being present at the Sacrament is <hi>Iohn.</hi> 13. <hi>verse</hi> 30. <hi>[Hee then having received the sop, went immediately out: and it was night]</hi> though indeed this very place considered with all circum<g ref="char:EOLhyphen"/>stances seemes unanswerably to prove the Contrary. For,</p>
+               <p>First, <hi>vers.</hi> 2. <hi>Supper,</hi> that is, the Passeover was ended; and that (according to the season of the yeare, the custome of the country, and the law also of the Passeover) in the twilight, before day was quite in, that is, before dark night.</p>
+               <p>Secondly, After <hi>Supper,</hi> and before the Communion, was done and said all from <hi>v.</hi> 2. to <hi>v.</hi> 17. and are thus recorded by no other E<g ref="char:EOLhyphen"/>vangelist.</p>
+               <p>Thirdly, Our Saviour intimating, that one of the twelve should betray him,
+<note place="margin">Paralipomena scribebat Jo<g ref="char:EOLhyphen"/>hannes, omittens aliis dicta, nisi siquid contextus historiae deside<g ref="char:EOLhyphen"/>rabat.</note> is in the Gospell storied of him to have been no lesse then three times given out by him. First in <hi>Joh.</hi> 6.70. <hi>Have not I chosen you twelve, and one of you is a Devill? vers.</hi> 71. <hi>He spake of Judas Iscariot, &amp;c.</hi> A time mentioned by no Evangelist else. The se<g ref="char:EOLhyphen"/>cond by S. <hi>Matthew,</hi> and S. <hi>Marke</hi> to have been at the Passeover, <hi>Mat.</hi> 26.21. <hi>And as they did eat</hi> [the Passeover, <hi>v.</hi> 10.20.] he said, <hi>Verily, I say unto you, that one of you shall betray mee,</hi> and <hi>Mar.</hi> 14.18. <hi>And as they sate and did eate.</hi> [the Passeover, <hi>vers.</hi> 16, 17.]
+<pb n="5" facs="tcp:165830:3"/>
+                  <hi>Jesus said, Verily I say unto you one of you which eat<g ref="char:EOLhyphen"/>eth with mee, shall betray mee.</hi> And the third by S. <hi>Luke</hi> to have been after the Passeover, and at the Communion for certaine, if not a little after. <hi>Luke</hi> 22. for <hi>v.</hi> 21. <hi>But behold the hand of him that betrayeth me, is with me on the table;</hi> when just before, to wit, <hi>ver.</hi> 19.20. We have the Communion given by Jesus Christ &amp; received by the disciples. And this time (by what has bin said but just now in the second observation) is that, questionlesse, which is meant in this <hi>Joh.</hi> 13.18, 19 &amp; 21. <hi>I speak not of you all, I know whom I have chosen: but that the Scripture may be fulfilled, He that eateth bread with mee, hath lift up his heele against me.</hi> 19. <hi>Now I tell you before it come, that when it is come to passe, yee may beleeve that I am He.</hi> 21. <hi>When Jesus had thus said, he was troubled in spirit and testified, and said, verily I say unto you, that one of you shall betray me.</hi> So that these words in <hi>vers.</hi> 21. <hi>One of you shall betray me,</hi> are to be conceived not another speech from <hi>v.</hi> 18.19. but onely the speaking out plainly <hi>(testified and said)</hi> what was darkly said before out of the Prophet. And whereas the words here are many more and differing from those in S. <hi>Luke,</hi> that is not at all materiall, for it is usuall in the Evangelists, for one to record some words, and another other some, of the same speech, spoken by Christ at one and the same time.</p>
+               <p>Fourthly, The dipped sop was a peice of the blessed and broken bread, dipt into the wine for distinction sake, that <hi>John</hi> might have knowne the Traytor according to our Saviours signification, <hi>v.</hi> 26. But so slow and heedlesse notwithstanding was he sure, as well as the rest (if they also did heare that Intimation to <hi>John</hi>) that, for ought we finde in the Gospels, they understood nothing, no not of this, which they seem'd so desirous to know. And that their slow<g ref="char:EOLhyphen"/>nesse and slendernesse not long before this was very great, we finde plainely by <hi>Luk.</hi> 18.34. <hi>They understood none of these things, and this saying was hid from them, neither knew they the things which were spoken.</hi> Adde hereunto, that whereas that speech of our Saviour <hi>Joh. chap.</hi> 13. <hi>vers.</hi> 27. <hi>That thou dost, doe quickly;</hi> was meant wee all know, of <hi>Judas</hi> his betraying him; (as if he should have said, I know the wickednesse of thy heart, what mischiefe against me thou hast conceived and art resolved upon, but know this, I am provided to beare every thing, and therefore be as quick as thou canst, I am ready.) Had the disciples by this
+<pb n="3" facs="tcp:165830:4"/>time knowne that <hi>Judas</hi> was the man, that would betray him, they would sure have understood this in the right sense. But that so they did not, is plaine by the next words, <hi>vers.</hi> 28.29. <hi>Now no man at the table knew for what intent he spake this unto him. For some of them thought, because Judas had the bag, &amp;c.</hi> So that, that speech of our Saviour to <hi>Judas, Matth.</hi> 26.25. <hi>Thou hast said;</hi> must needs be understood, either to have beene so whisper'd into his eare, that the other disciples did not heare (He sitting next unto Christ on one side, or at lest very neare him) or else to have beene no better understood by them, then this, <hi>Joh.</hi> 13.27. <hi>That thou doest do quickly.</hi>
+               </p>
+               <p>Fiftly, <hi>Supper,</hi> that is, the Passeover was ended by Twilight, <hi>v.</hi> 2. but <hi>Judas</hi> went not out, till it was darke night, <hi>v.</hi> 30. <hi>[He then ha<g ref="char:EOLhyphen"/>ving received the sop, went immediately out: and it was night.)</hi> That is, Not till he had had his feet washed by his Master, <hi>v.</hi> 4. and also been made partaker of the Communion, which was not in the twilight, but in the very night, and <hi>Supper being ended, v.</hi> 2. and 4. <hi>He riseth from Supper.</hi> But now the sop is given to <hi>Judas</hi> a good while after, <hi>viz.</hi> not before, <hi>v.</hi> 26. <hi>Hee it is, to whom I shall give, &amp;c.</hi>
+               </p>
+               <p>Sixtly, Admit it could be proved, that <hi>Judas</hi> was not at the Communion; yet what is this to prove that such mixt Communi<g ref="char:EOLhyphen"/>ons, as we now have, are not lawfull? All that could follow (admit <hi>Judas</hi> his not communicating could be made out most cleerly) is onely this, That that one plea for our use, is none of the soundest. But at no hand would it follow, either that the other pleas (for in<g ref="char:EOLhyphen"/>stance, that in the first Position) are not most sound and ortho<g ref="char:EOLhyphen"/>dox; or, that the usage it selfe is Polluting, Sinfull, and by Saints not to be endured.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>
+                  <hi>Not discerning the Lords body]</hi> is held forth to be a great and perillous sinne to those that are guilty of it; yet neither in that place, nor any else, held forth, either to people, to be ground to them to forbeare communicating in the company of those whom they suspect to be such; or to a Minister, either to <hi>suspend,</hi> or <hi>ex<g ref="char:EOLhyphen"/>clude, all those,</hi> who he onely feares are such Not-discerners.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV.</head>
+               <p>To communicate with not-discerners, and otherwise unworthy receivers, is not in 1 <hi>Cor.</hi> 11.29, 30. held forth to us to be any cause
+<pb n="5" facs="tcp:165830:4"/>of temparall, much lesse eternall judgement to those, that are worthy, though communicating in the company of the unworthy; But onely undiscerning and unworthy receiving affirm'd to be the Provocation in those, that were judged and chastened, as there the Apostle shewes, and especially in <hi>v.</hi> 30. <hi>For this cause many are weake and sickly among you, and many sleepe, viz.</hi> many of those a<g ref="char:EOLhyphen"/>mong you, that have eaten and drunken unworthily (in the verse just before, <hi>viz. v.</hi> 29.) <hi>not discerning the Lords body.</hi> And marke it, There seemes to be this emphasis also in the word, <hi>many;</hi> namely, Many, not All: As if he should have said, The whole body of you are not punished for the fault of some; No, nor yet all the offenders themselves <hi>(Pius scilicet Deus partem percussit sententiae suae gladio, ut partem corrigeret exemplo,</hi> as <hi>salvian.</hi>) Yet <hi>many</hi> of them; that they that were spared, might be the more surely scared and warned.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>In the Ordinance of the Lords and Commons (as in all Lawes) The Law-makers sure intended, an equity, &amp; justprudence should take place; Not that in all places, concernning all persons, and at all times, the Letter of the Ordinance should be pressed, even to rigour and extremity; But where Circumstances concurre, there to presse, or for beare according to the occasion. For instance, In case I know a man to order, or to have ordered his life soberly, justly and godlily (as the Apostle speakes) though hee be able perhaps to give little or no account almost of his faith in words; Yet, be<g ref="char:EOLhyphen"/>sides many other thinges in gods word, Very charity requires mee to hope and perswade my selfe, That had hee not a good measure of Christian faith and knowledge in his heart, hee would never have shewed soe much in his life and conversation; And soe for<g ref="char:EOLhyphen"/>bids mee to pursue the utmost of the Ordinance about such an one; Nor, I beleeve, would any of the Law-makers, were they consulted with, direct otherwise.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI.</head>
+               <p>Concerning the meaning of these words, <hi>This is my body;</hi> Let that Apoththegme of Q. <hi>Elizabeth</hi> bee much thought-on; who beeing examined (in her sisters Raigne) about the Reall presence,
+<pb n="3" facs="tcp:165830:5"/>and in great danger, made this Answer (which 'tis said saved her life)
+<q>
+                     <l>Christ tooke the bread and brake it;</l>
+                     <l>Hee was The Word, that spake it;</l>
+                     <l>And what that Word did make it;</l>
+                     <l>I doe receive and take it;</l>
+                  </q>
+               </p>
+               <p>All Controversies are best shut-up with such short Resolutions of faith and practise, as this is.</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII.</head>
+               <p>Nor all, nor any one of these six positions would we be under<g ref="char:EOLhyphen"/>stood to have been thought and written, out of any design against the Ordinance of the Lords and Commons, concerning suspension from the Sacrament of the Lords Supper; taken in that sense in which by them it was published, to wit, as an Act of Christian prudence and Ecclesiasticall policy, no way contrary to the Word of God (for in this notion we heartily desire and earnestly endea<g ref="char:EOLhyphen"/>vour that it may obtain, and do zealously exhort all sorts to submit unto the Examination therein expressed; the abler sort of people, for the good example of the slender ones; and the weaker, that they may learne, and in time, by gods blessing upon their using the meanes, attaine unto such notable abilities, as they see in o<g ref="char:EOLhyphen"/>thers.) No, But our true and onely intent in them is this, To give notice unto the world that the way, that wee were in hereto<g ref="char:EOLhyphen"/>fore, was not defective in any thing that is held forth in the Word of God, as praeceptively to worthy receiving necessary, and that what now is added is onely matter of spirituall prudence; And that in walking according to the purpose thereof, to say the most that can be sayd, we shall only do better; but yet that heretofore wee did well; and still shall doe well, Authority soe allowing, wee doe charitably live and practise according to the Rules and Rubricks, that heretofore have been our direction, and which for a long time good Christians have followed, to the glory of God, the comfort of their owne soules, and the edifying of one another in faith and love.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
